@@ -1,7 +1,6 @@
 package fr.kyo.servicemail.endpoint;
 
 import fr.kyo.servicemail.dao.DAOFactory;
-import fr.kyo.servicemail.entity.Email;
 import fr.kyo.servicemail.security.MyApiKey;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.ws.rs.Consumes;
